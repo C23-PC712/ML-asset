@@ -20,8 +20,8 @@ valRatio = 0.2
 imageDimensions = (64, 64, 3)
 
 batch_SizeVal = 50
-epocVal = 2
-stepsPerEpoch = 50
+epocVal = 15
+stepsPerEpoch = 100
 
 # Mendapatkan daftar huruf besar (A-Z) dan huruf kecil (a-z)
 letters = string.digits + string.ascii_uppercase + string.ascii_lowercase
